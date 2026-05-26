@@ -1,4 +1,4 @@
-# NYC-Crash-Data-Management-System-2025
+# NYC-Vehicle-Collision-Data-Management-System-2025
 This is a Data Management System based on NYC Vehicle Collision Data from 2025. 
 
 Copy and Paste this URL to run the system for your reference:
